@@ -1,0 +1,14 @@
+PLA ORGANITZATIU
+
+- Per organitzar les branques el que farem és una per el codi, una per els arxius informatius o de planificació i una branca main que és la per defecte.
+
+- Dins de documentacio hem fet una carpeta per tenir els arxius ordenats.
+
+- Dins de codi hi ha una carpeta amb els arxius de la pàgina web.
+
+- Dins de main hi ha el README i no tenim pensat pujar-hi res més.
+
+- En quant els arxius de documentació els anirem pujant a mida que anem avançant amb el projecte.
+
+- En els arxius de la pàgina els anirem pujant de tant en tan segons si fem canvis o no i si fa falta.
+
