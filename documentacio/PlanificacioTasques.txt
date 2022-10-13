@@ -6,22 +6,28 @@ També utilitzarem un gràfic de Grantt com arxiu complementari.
 
 	1.1-Seccions:
 
-
+		A dalt de tot apareixerà el títol de la web i la localització de l'empresa. A sota els apartats de "Qui som" 
+		i també "Què fem" per explicar les tasques de l'empresa. Seguidament el contacte i per finalitzar els apartats
+		de les seccions personals dels membres del grup.
+		Aquest apartat es veu més clar visualitzant l'sketch de la web.
 
 
 	2.2-Pàgines:
 
-
+		Ja que serà una web senzilla només tindrem una pàgina principal on hi sortirà tota la informació
+		de l'empresa d'avions i a les seccions principals sí que hi hauran links que portaràn a diferents pàgines web
+		de cada membre del grup, les webs personals.
 
 
 	2.3-Secció Personal:
 
-
+		Per a les seccions personals escriurem una petita introducció seguidament de un link a la web personal
+		de cada membre del grup.
 
 
 	2.4-Navegació Entre Pàgines:
 
-
+		A la secció personal hi haurà un botó a cada membre que redirigirà directament a les webs personals de cadascu.
 
 
 
