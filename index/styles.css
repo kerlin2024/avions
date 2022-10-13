@@ -7,7 +7,9 @@ a:hover {color: #000; text-decoration:underline; }
 .right {text-align:right; }
 .hide {display: none;}
 
-
+#centretitul {
+    text-align: center;
+}
     
 #container {
     width:100%;
@@ -18,6 +20,7 @@ a:hover {color: #000; text-decoration:underline; }
     display:table;
     width:80%;
     margin:auto;
+    text-align: center;
 }
 
 .section {
